@@ -12,4 +12,4 @@ In this repository, we include all resources used in our project to harness larg
 
 **Contact information**:
 - Shayantan Chaudhuri: shayantan.chaudhuri@nottingham.ac.uk
-- Katherine Inzani: pczki@exmail.nottingham.ac.uk
+- Katherine Inzani: katherine.inzani1@exmail.nottingham.ac.uk
