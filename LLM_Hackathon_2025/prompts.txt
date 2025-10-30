@@ -1,0 +1,43 @@
+Non-fine-tuned prompts:
+1.  The tetragonal perovskite-like motif features a single copper-oxygen plane per unit cell within a $P4/mmm$ space group.
+2.  The orthorhombic Pmmm layered structure contains a bilayer motif of corner-sharing copper-oxygen squares and a single copper-oxygen chain.
+3.  The tetragonal $I4/mmm$ structure consists of a single copper-oxygen plane stacked with alternating lanthanum-strontium oxide layers.
+4.  The bilayer tetragonal $P4/mmm$ motif includes two adjacent copper-oxygen planes separated by a calcium ion layer.
+5.  The trilayer tetragonal $P4/mmm$ structure contains three stacked copper-oxygen planes separated by two calcium ion layers.
+6.  The infinite-layer motif has a tetragonal $P4/mmm$ space group with continuous copper-oxygen planes and no intermediate charge reservoir layers.
+7.  The single-layered structure in the tetragonal $P4/mmm$ space group features a single copper-oxygen octahedron per unit cell.
+8.  The $I4/mmm$ space group contains a bilayer of $CuO_2$ planes and a charge reservoir layer of thallium and barium oxides.
+9.  The orthorhombic $Pmmm$ structure contains a bilayer of $CuO_2$ planes and a charge reservoir layer with copper-oxygen chains.
+10. The tetragonal $P4/nmm$ structure consists of two adjacent $CuO_2$ planes separated by an yttrium layer.
+11. The tetragonal $P4/mmm$ structure includes a single $CuO_2$ plane and a single $Ba_2O_2$ charge reservoir layer.
+12. The bilayer motif in the $P4/mmm$ space group shows a stacking sequence of $CuO_2$-Ca-$CuO_2$ planes.
+13. The $P4/mmm$ space group features a trilayer of $CuO_2$ planes with an alternating stacking sequence.
+14. The tetragonal $P4/mmm$ space group contains a quadruple-layer motif with four adjacent copper-oxygen planes.
+15. The single-layered tetragonal structure has a $P4/mmm$ space group and a rock salt-like stacking of oxide planes.
+16. The orthorhombic $Pmmm$ unit cell contains a bilayer motif of $CuO_2$ planes with a zig-zag arrangement.
+17. The tetragonal $I4/mmm$ space group contains a single $CuO_2$ plane with alternating rock salt-like bismuth-oxide layers.
+18. The $P4/nmm$ space group features an alternating stack of $CuO_2$ planes and lead-strontium oxide layers.
+19. The single-layered $I4/mmm$ structure consists of a single $CuO_2$ plane with a rock salt-like charge reservoir.
+20. The $P4/mmm$ space group features an infinite-layer motif with a continuous stacking of $CuO_2$ planes.
+
+Fine tuned prompts:
+1.  Generate a layered perovskite-like structure with tetragonal space group symmetry featuring corner-sharing CuO2 planes.
+2.  Design an orthorhombic structure containing copper-oxygen chains and a specific stacking sequence of layers within the unit cell.
+3.  Create a bilayer structure with two CuO₂ planes per unit cell separated by an intermediate charge reservoir layer.
+4.  Develop a trilayer structure with three CuO₂ planes stacked closely together and alternating slabs of different crystallographic types.
+5.  Model a tetragonal structure with a planar CuO₂ network and a unit cell geometry defined by specific lattice parameters.
+6.  Synthesize a chain-containing structure with a focus on the connectivity of copper and oxygen atoms forming one-dimensional motifs.
+7.  Construct a layered structure with intergrowth of perovskite and rock-salt type blocks and distinct layering details.
+8.  Generate a structure with square-pyramidal copper coordination within the CuO₂ planes and a defined unit cell shape.
+9.  Design a tetragonal structure with ordered arrangements of structural elements and a specific number of CuO₂ layers per unit cell.
+10. Create a structure derived from the T'-structure, characterized by the absence of apical oxygen and a unique stacking of layers.
+11. Develop a layered structure with stacking faults and a defined arrangement of CuO₂ planes and separating layers.
+12. Model a structure with square-planar copper coordination and a specific unit cell geometry reflecting its symmetry.
+13. Synthesize a Hg-based layered structure with a defined number of CuO₂ planes and a characteristic stacking sequence.
+14. Construct a structure based on La2CuO4 derivatives, incorporating structural phase transitions and a specific unit cell configuration.
+15. Generate a complex layered structure with distinct crystallographic sites and specific elemental arrangements defining the structural motif.
+16. Design a bilayer structure with controlled CuO2 layer spacing and a focus on the spatial relationship between the two planes.
+17. Create a trilayer structure with a specific space group symmetry and a defined arrangement of the three CuO2 planes.
+18. Develop a layered structure with a focus on the overall unit cell dimensions and the spatial organization of its constituent layers.
+19. Model a tetragonal structure with a planar CuO2 network and copper-oxygen chains, highlighting the coexistence of different structural elements.
+20. Synthesize an infinite-layer structure characterized by continuous CuO2 planes without intervening charge reservoir layers.
