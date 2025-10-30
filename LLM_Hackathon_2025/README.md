@@ -1,7 +1,7 @@
 # CuPirates 
 ## LLM Hackathon for Applications in Materials Science & Chemistry 2025
 
-In this GitHub repository, we include materials used in our project to harness large language models (LLMs) to generate novel cuprate superconductors. 
+In this repository, we include all resources used in our project to harness large language models (LLMs) to generate novel cuprate superconductors. 
 
 All scientific literature used for fine-tuning are collated in `references.bib`.
 A comparison of non-fine-tuned and fine-tuned Gemini-generated prompts for Chemeleon are listed in `prompts.txt`.
