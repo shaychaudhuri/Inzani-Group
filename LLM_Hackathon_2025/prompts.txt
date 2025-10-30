@@ -1,4 +1,4 @@
-Non-fine-tuned prompts:
+Non-fine-tuned Gemini-generated prompts for Chemeleon:
 1.  The tetragonal perovskite-like motif features a single copper-oxygen plane per unit cell within a $P4/mmm$ space group.
 2.  The orthorhombic Pmmm layered structure contains a bilayer motif of corner-sharing copper-oxygen squares and a single copper-oxygen chain.
 3.  The tetragonal $I4/mmm$ structure consists of a single copper-oxygen plane stacked with alternating lanthanum-strontium oxide layers.
@@ -20,7 +20,7 @@ Non-fine-tuned prompts:
 19. The single-layered $I4/mmm$ structure consists of a single $CuO_2$ plane with a rock salt-like charge reservoir.
 20. The $P4/mmm$ space group features an infinite-layer motif with a continuous stacking of $CuO_2$ planes.
 
-Fine tuned prompts:
+Fine-tuned Gemini-generated prompts for Chemeleon:
 1.  Generate a layered perovskite-like structure with tetragonal space group symmetry featuring corner-sharing CuO2 planes.
 2.  Design an orthorhombic structure containing copper-oxygen chains and a specific stacking sequence of layers within the unit cell.
 3.  Create a bilayer structure with two CuO₂ planes per unit cell separated by an intermediate charge reservoir layer.
