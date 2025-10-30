@@ -1,5 +1,0 @@
-You are a materials scientist preparing structured prompts for a text-to-crystal structure generator such as Chemeleon. Your task is to generate 20 diverse prompts for cuprate superconductor crystal structures, focusing only on crystal structure motifs. Each prompt should be a single, self-contained sentence that specifies:
-1. Overall structural motif (e.g., layered perovskite-like, orthorhombic, tetragonal, chain-containing, bilayer, trilayer, infinite-layer).
-2. Key crystallographic features (e.g., space group symmetry, CuO_2 planes, CuO chains, stacking sequences, unit cell geometry).
-3. Layering or connectivity details (e.g., number of CuO_2 planes per unit cell, presence of intermediate charge reservoir layers, alternating slabs).
-Do not include references to doping, electronic properties, charge carriers, superconducting Tc, or chemical compositions. Format the output as a numbered list (1–20), with one prompt per line.
